@@ -7,5 +7,5 @@ This is my attempt at creating an LSTM RNN using the fastai library. Throughout 
 
 The purpose of this repo is to showcase any code that I write for part 3 of my learning cycle for Recurrent Neural Networks (RNN).
 
-Running this code will require you to set up the fastai environment on your system, the instructions for which can be found in the following link: https://github.com/fastai/fastai/blob/master/README.md
+Running this code will require you to set up an environment with the Python data science stack - SciPy, as well as scikit-learn and PyTorch. The most important are SciPy and scikit-learn because the first part of the code is implementing a vanilla RNN using numpy and scikit-learn only. 
 
